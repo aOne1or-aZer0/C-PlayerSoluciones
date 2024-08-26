@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zw5T9gQDNgA=",
+  "success": true,
+  "projectFilePath": "/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/TheDominionOfKings.csproj",
+  "expectedPackageFiles": [
+    "/home/jv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

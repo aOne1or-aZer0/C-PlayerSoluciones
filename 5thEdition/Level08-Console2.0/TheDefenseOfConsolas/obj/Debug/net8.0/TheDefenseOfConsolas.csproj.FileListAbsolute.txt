@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/bin/Debug/net8.0/TheDefenseOfConsolas
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/bin/Debug/net8.0/TheDefenseOfConsolas.deps.json
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/bin/Debug/net8.0/TheDefenseOfConsolas.runtimeconfig.json
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/bin/Debug/net8.0/TheDefenseOfConsolas.dll
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/bin/Debug/net8.0/TheDefenseOfConsolas.pdb
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.AssemblyInfo.cs
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.dll
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/refint/TheDefenseOfConsolas.dll
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.pdb
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/TheDefenseOfConsolas.genruntimeconfig.cache
+/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/obj/Debug/net8.0/ref/TheDefenseOfConsolas.dll

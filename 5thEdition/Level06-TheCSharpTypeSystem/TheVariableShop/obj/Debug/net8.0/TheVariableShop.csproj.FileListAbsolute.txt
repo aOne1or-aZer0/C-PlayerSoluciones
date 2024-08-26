@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.AssemblyInfo.cs
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/TheVariableShop/bin/Debug/net8.0/TheVariableShop
+/home/jv/Documents/C#_player/TheVariableShop/bin/Debug/net8.0/TheVariableShop.deps.json
+/home/jv/Documents/C#_player/TheVariableShop/bin/Debug/net8.0/TheVariableShop.runtimeconfig.json
+/home/jv/Documents/C#_player/TheVariableShop/bin/Debug/net8.0/TheVariableShop.dll
+/home/jv/Documents/C#_player/TheVariableShop/bin/Debug/net8.0/TheVariableShop.pdb
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.dll
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/refint/TheVariableShop.dll
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.pdb
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/TheVariableShop.genruntimeconfig.cache
+/home/jv/Documents/C#_player/TheVariableShop/obj/Debug/net8.0/ref/TheVariableShop.dll

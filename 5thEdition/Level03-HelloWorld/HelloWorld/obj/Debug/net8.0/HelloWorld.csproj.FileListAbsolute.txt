@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/jv/Documents/C#_player/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/jv/Documents/C#_player/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/jv/Documents/C#_player/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/jv/Documents/C#_player/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/jv/Documents/C#_player/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.AssemblyInfo.cs
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/TheTriangleFarmer/bin/Debug/net8.0/TheTriangleFarmer
+/home/jv/Documents/C#_player/TheTriangleFarmer/bin/Debug/net8.0/TheTriangleFarmer.deps.json
+/home/jv/Documents/C#_player/TheTriangleFarmer/bin/Debug/net8.0/TheTriangleFarmer.runtimeconfig.json
+/home/jv/Documents/C#_player/TheTriangleFarmer/bin/Debug/net8.0/TheTriangleFarmer.dll
+/home/jv/Documents/C#_player/TheTriangleFarmer/bin/Debug/net8.0/TheTriangleFarmer.pdb
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.dll
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/refint/TheTriangleFarmer.dll
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.pdb
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/TheTriangleFarmer.genruntimeconfig.cache
+/home/jv/Documents/C#_player/TheTriangleFarmer/obj/Debug/net8.0/ref/TheTriangleFarmer.dll

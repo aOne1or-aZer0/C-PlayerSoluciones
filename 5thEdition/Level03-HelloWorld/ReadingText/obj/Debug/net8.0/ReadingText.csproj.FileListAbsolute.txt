@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.AssemblyInfo.cs
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/ReadingText/bin/Debug/net8.0/ReadingText
+/home/jv/Documents/C#_player/ReadingText/bin/Debug/net8.0/ReadingText.deps.json
+/home/jv/Documents/C#_player/ReadingText/bin/Debug/net8.0/ReadingText.runtimeconfig.json
+/home/jv/Documents/C#_player/ReadingText/bin/Debug/net8.0/ReadingText.dll
+/home/jv/Documents/C#_player/ReadingText/bin/Debug/net8.0/ReadingText.pdb
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.dll
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/refint/ReadingText.dll
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.pdb
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ReadingText.genruntimeconfig.cache
+/home/jv/Documents/C#_player/ReadingText/obj/Debug/net8.0/ref/ReadingText.dll

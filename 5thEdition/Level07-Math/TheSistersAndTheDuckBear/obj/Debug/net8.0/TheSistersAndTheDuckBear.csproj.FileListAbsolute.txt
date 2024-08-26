@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.AssemblyInfo.cs
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/bin/Debug/net8.0/TheSistersAndTheDuckBear
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/bin/Debug/net8.0/TheSistersAndTheDuckBear.deps.json
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/bin/Debug/net8.0/TheSistersAndTheDuckBear.runtimeconfig.json
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/bin/Debug/net8.0/TheSistersAndTheDuckBear.dll
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/bin/Debug/net8.0/TheSistersAndTheDuckBear.pdb
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.dll
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/refint/TheSistersAndTheDuckBear.dll
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.pdb
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/TheSistersAndTheDuckBear.genruntimeconfig.cache
+/home/jv/Documents/C#_player/TheSistersAndTheDuckBear/obj/Debug/net8.0/ref/TheSistersAndTheDuckBear.dll

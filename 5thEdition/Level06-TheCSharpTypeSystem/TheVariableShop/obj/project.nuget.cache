@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkkTv3DjzU0=",
+  "success": true,
+  "projectFilePath": "/home/jv/Documents/C#_player/TheVariableShop/TheVariableShop.csproj",
+  "expectedPackageFiles": [
+    "/home/jv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

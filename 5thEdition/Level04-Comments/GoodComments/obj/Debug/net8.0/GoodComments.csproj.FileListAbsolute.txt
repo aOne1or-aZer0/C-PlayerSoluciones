@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.AssemblyInfo.cs
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/GoodComments/bin/Debug/net8.0/GoodComments
+/home/jv/Documents/C#_player/GoodComments/bin/Debug/net8.0/GoodComments.deps.json
+/home/jv/Documents/C#_player/GoodComments/bin/Debug/net8.0/GoodComments.runtimeconfig.json
+/home/jv/Documents/C#_player/GoodComments/bin/Debug/net8.0/GoodComments.dll
+/home/jv/Documents/C#_player/GoodComments/bin/Debug/net8.0/GoodComments.pdb
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.dll
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/refint/GoodComments.dll
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.pdb
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/GoodComments.genruntimeconfig.cache
+/home/jv/Documents/C#_player/GoodComments/obj/Debug/net8.0/ref/GoodComments.dll

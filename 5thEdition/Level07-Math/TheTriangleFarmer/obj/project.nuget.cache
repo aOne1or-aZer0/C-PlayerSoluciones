@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBXn0+4V6Uo=",
+  "success": true,
+  "projectFilePath": "/home/jv/Documents/C#_player/TheTriangleFarmer/TheTriangleFarmer.csproj",
+  "expectedPackageFiles": [
+    "/home/jv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

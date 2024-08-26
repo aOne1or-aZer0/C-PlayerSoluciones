@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRe5EjjI4O0=",
+  "success": true,
+  "projectFilePath": "/home/jv/Documents/C#_player/Level08-Console2.0/TheDefenseOfConsolas/TheDefenseOfConsolas.csproj",
+  "expectedPackageFiles": [
+    "/home/jv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

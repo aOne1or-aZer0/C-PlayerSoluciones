@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.AssemblyInfo.cs
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/FiveStatements/bin/Debug/net8.0/FiveStatements
+/home/jv/Documents/C#_player/FiveStatements/bin/Debug/net8.0/FiveStatements.deps.json
+/home/jv/Documents/C#_player/FiveStatements/bin/Debug/net8.0/FiveStatements.runtimeconfig.json
+/home/jv/Documents/C#_player/FiveStatements/bin/Debug/net8.0/FiveStatements.dll
+/home/jv/Documents/C#_player/FiveStatements/bin/Debug/net8.0/FiveStatements.pdb
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.dll
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/refint/FiveStatements.dll
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.pdb
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/FiveStatements.genruntimeconfig.cache
+/home/jv/Documents/C#_player/FiveStatements/obj/Debug/net8.0/ref/FiveStatements.dll

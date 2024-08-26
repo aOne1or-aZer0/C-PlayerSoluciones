@@ -1,0 +1,14 @@
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.AssemblyInfoInputs.cache
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.AssemblyInfo.cs
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.csproj.CoreCompileInputs.cache
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/bin/Debug/net8.0/TheDominionOfKings
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/bin/Debug/net8.0/TheDominionOfKings.deps.json
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/bin/Debug/net8.0/TheDominionOfKings.runtimeconfig.json
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/bin/Debug/net8.0/TheDominionOfKings.dll
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/bin/Debug/net8.0/TheDominionOfKings.pdb
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.dll
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/refint/TheDominionOfKings.dll
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.pdb
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/TheDominionOfKings.genruntimeconfig.cache
+/home/jv/Documents/C#_player/Level07-Math/TheDominionOfKings/obj/Debug/net8.0/ref/TheDominionOfKings.dll
