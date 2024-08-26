@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
-      "projectName": "TheDefenseOfConsolas",
-      "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
+      "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level09-DecisionMaking\\RepairingTheClocktower\\RepairingTheClocktower.csproj",
+      "projectName": "RepairingTheClocktower",
+      "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level09-DecisionMaking\\RepairingTheClocktower\\RepairingTheClocktower.csproj",
       "packagesPath": "C:\\Users\\winbl0ws\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\obj\\",
+      "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level09-DecisionMaking\\RepairingTheClocktower\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\winbl0ws\\AppData\\Roaming\\NuGet\\NuGet.Config"

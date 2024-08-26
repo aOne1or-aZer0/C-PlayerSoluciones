@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\refint\RepairingTheClocktower.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\5thEdition\Level09-DecisionMaking\RepairingTheClocktower\obj\Debug\net8.0\ref\RepairingTheClocktower.dll
