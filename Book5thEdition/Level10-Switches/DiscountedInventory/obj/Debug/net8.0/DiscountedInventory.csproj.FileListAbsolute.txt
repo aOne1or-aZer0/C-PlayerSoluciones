@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\refint\DiscountedInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\DiscountedInventory\obj\Debug\net8.0\ref\DiscountedInventory.dll

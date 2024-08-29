@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\bin\Debug\net8.0\BuyingInventory.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\bin\Debug\net8.0\BuyingInventory.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\bin\Debug\net8.0\BuyingInventory.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\bin\Debug\net8.0\BuyingInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\bin\Debug\net8.0\BuyingInventory.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\refint\BuyingInventory.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\BuyingInventory.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level10-Switches\BuyingInventory\obj\Debug\net8.0\ref\BuyingInventory.dll
