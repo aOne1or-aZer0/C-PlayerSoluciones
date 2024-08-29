@@ -49,7 +49,6 @@
             }
             Console.WriteLine("Hola JV, tienes 50% de descuento en los artículos de la tienda");
             Console.WriteLine($"{articulo} cuesta {precio} de oro ");
-            
         }
     }
 }
