@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level11-looping\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll
