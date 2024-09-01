@@ -60,7 +60,6 @@ namespace TheProtoType
                     break;
                 }
             }
-            
         }
     }
 }
