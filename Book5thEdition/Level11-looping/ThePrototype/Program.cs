@@ -9,7 +9,7 @@
 using System;
 namespace TheProtoType
 {
-    public class MyClass
+    public class Program
     {
         public static void Main(string[]args)
         {
