@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\bin\Debug\net8.0\TheReplicatorOfDto.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\bin\Debug\net8.0\TheReplicatorOfDto.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\bin\Debug\net8.0\TheReplicatorOfDto.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\bin\Debug\net8.0\TheReplicatorOfDto.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\bin\Debug\net8.0\TheReplicatorOfDto.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\refint\TheReplicatorOfDto.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\TheReplicatorOfDto.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheReplicatorOfDto\obj\Debug\net8.0\ref\TheReplicatorOfDto.dll
