@@ -1,11 +1,10 @@
 ﻿/*
 Objetivos:
-• Make a program that creates an array of length 5.
-• Ask the user for five numbers and put them in the array.
-• Make a second array of length 5.
-• Use a loop to copy the values out of the original array and into the new one.
-• Display the contents of both arrays one at a time to illustrate that the Replicator of D’To works
-again.
+- El programa crea un array de longitud 5
+- Pide al usuario cinco números y los pone en el array
+- Se crea un segundo array de longitud 5
+- Un bucle  copia los valores del array original en el nuevo.
+- Muestra el contenido de ambos arrays de uno en uni para mostrar que si funciona el código
 */
 using System;
 namespace TheReplicatorOfDto
