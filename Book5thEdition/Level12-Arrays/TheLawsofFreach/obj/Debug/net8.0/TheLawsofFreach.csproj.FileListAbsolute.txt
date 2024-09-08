@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\bin\Debug\net8.0\TheLawsofFreach.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\bin\Debug\net8.0\TheLawsofFreach.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\bin\Debug\net8.0\TheLawsofFreach.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\bin\Debug\net8.0\TheLawsofFreach.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\bin\Debug\net8.0\TheLawsofFreach.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\refint\TheLawsofFreach.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\TheLawsofFreach.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level12-Arrays\TheLawsofFreach\obj\Debug\net8.0\ref\TheLawsofFreach.dll

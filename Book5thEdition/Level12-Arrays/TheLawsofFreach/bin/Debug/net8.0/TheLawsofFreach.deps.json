@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TheLawsofFreach/1.0.0": {
+        "runtime": {
+          "TheLawsofFreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheLawsofFreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
