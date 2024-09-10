@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\bin\Debug\net8.0\TakingaNumber.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\bin\Debug\net8.0\TakingaNumber.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\bin\Debug\net8.0\TakingaNumber.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\bin\Debug\net8.0\TakingaNumber.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\bin\Debug\net8.0\TakingaNumber.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\refint\TakingaNumber.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\TakingaNumber.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\TakingaNumber\obj\Debug\net8.0\ref\TakingaNumber.dll
