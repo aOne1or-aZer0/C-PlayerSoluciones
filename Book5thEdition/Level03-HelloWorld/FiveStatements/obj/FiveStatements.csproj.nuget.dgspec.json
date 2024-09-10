@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jv/Documents/C#_player/FiveStatements/FiveStatements.csproj": {}
+    "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level03-HelloWorld\\FiveStatements\\FiveStatements.csproj": {}
   },
   "projects": {
-    "/home/jv/Documents/C#_player/FiveStatements/FiveStatements.csproj": {
+    "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level03-HelloWorld\\FiveStatements\\FiveStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jv/Documents/C#_player/FiveStatements/FiveStatements.csproj",
+        "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level03-HelloWorld\\FiveStatements\\FiveStatements.csproj",
         "projectName": "FiveStatements",
-        "projectPath": "/home/jv/Documents/C#_player/FiveStatements/FiveStatements.csproj",
-        "packagesPath": "/home/jv/.nuget/packages/",
-        "outputPath": "/home/jv/Documents/C#_player/FiveStatements/obj/",
+        "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level03-HelloWorld\\FiveStatements\\FiveStatements.csproj",
+        "packagesPath": "C:\\Users\\winbl0ws\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level03-HelloWorld\\FiveStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\winbl0ws\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

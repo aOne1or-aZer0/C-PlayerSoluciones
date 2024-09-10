@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
+      "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
       "projectName": "TheDefenseOfConsolas",
-      "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
+      "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\TheDefenseOfConsolas.csproj",
       "packagesPath": "C:\\Users\\winbl0ws\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\obj\\",
+      "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level08-Console2.0\\TheDefenseOfConsolas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\winbl0ws\\AppData\\Roaming\\NuGet\\NuGet.Config"

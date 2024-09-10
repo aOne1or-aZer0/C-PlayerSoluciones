@@ -2,10 +2,9 @@
 Objetivos:
 - Usar el código proporcionado en el libro y refactorizarlos a ciclos 'foreach'
 */
-using System;
 namespace TheLawsofFreach
 {
- public class Program
+    public class Program
  {
     public static void Main(string[]args)
     {

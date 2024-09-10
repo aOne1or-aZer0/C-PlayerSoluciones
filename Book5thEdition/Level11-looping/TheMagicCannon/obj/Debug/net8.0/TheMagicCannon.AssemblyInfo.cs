@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b11c2faf756976c958c55c1de03b080353b467")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8301cfcb4e444e48477a6102c67dd203e1a5ec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jB8dzF2zBbk=",
+  "dgSpecHash": "neVsD4rzhiY=",
   "success": true,
-  "projectFilePath": "/home/jv/Documents/C#_player/GoodComments/GoodComments.csproj",
-  "expectedPackageFiles": [
-    "/home/jv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\GoodComments.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

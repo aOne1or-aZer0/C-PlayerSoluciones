@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jv/Documents/C#_player/GoodComments/GoodComments.csproj": {}
+    "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\GoodComments.csproj": {}
   },
   "projects": {
-    "/home/jv/Documents/C#_player/GoodComments/GoodComments.csproj": {
+    "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\GoodComments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jv/Documents/C#_player/GoodComments/GoodComments.csproj",
+        "projectUniqueName": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\GoodComments.csproj",
         "projectName": "GoodComments",
-        "projectPath": "/home/jv/Documents/C#_player/GoodComments/GoodComments.csproj",
-        "packagesPath": "/home/jv/.nuget/packages/",
-        "outputPath": "/home/jv/Documents/C#_player/GoodComments/obj/",
+        "projectPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\GoodComments.csproj",
+        "packagesPath": "C:\\Users\\winbl0ws\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\winbl0ws\\Documents\\5thEdition\\C-PlayerSoluciones\\Book5thEdition\\Level04-Comments\\GoodComments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\winbl0ws\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
