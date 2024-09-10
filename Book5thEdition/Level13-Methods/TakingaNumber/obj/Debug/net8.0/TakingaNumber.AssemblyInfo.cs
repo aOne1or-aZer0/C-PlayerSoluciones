@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TakingaNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8301cfcb4e444e48477a6102c67dd203e1a5ec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815b0b8a0763f6f3e7c0e1579e5887496666b6eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TakingaNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TakingaNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
