@@ -35,7 +35,6 @@ namespace TakingaNumber
                 {
                     Console.WriteLine("Número fuera de rango."); // En el caso de que el numero ingresado sea menor a 0 o mayor a 100, muestra el mensaje 
                 }
-
             }
         }
         public static void Main(string[] args)
