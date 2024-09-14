@@ -1,0 +1,15 @@
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.AssemblyInfo.cs
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.sourcelink.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\bin\Debug\net8.0\Countdown.exe
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\bin\Debug\net8.0\Countdown.deps.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\bin\Debug\net8.0\Countdown.runtimeconfig.json
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\bin\Debug\net8.0\Countdown.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\bin\Debug\net8.0\Countdown.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\refint\Countdown.dll
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.pdb
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\Countdown.genruntimeconfig.cache
+C:\Users\winbl0ws\Documents\5thEdition\C-PlayerSoluciones\Book5thEdition\Level13-Methods\Countdown\obj\Debug\net8.0\ref\Countdown.dll
