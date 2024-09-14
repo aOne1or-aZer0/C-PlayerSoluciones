@@ -22,7 +22,7 @@ namespace Countdown
             Console.ForegroundColor = ConsoleColor.Gray; 
             Console.WriteLine();
         } 
-        public static int CuentaRegresiva(int numero = 10) 
+        public int CuentaRegresiva(int numero = 10) 
         {
             if (numero <= 0) return 0;
             {
@@ -34,7 +34,7 @@ namespace Countdown
         {
             Program program = new Program();
             program.MostrarBanner();
-            int cuentaAtras = CuentaRegresiva();  
+            program.CuentaRegresiva();  
         }
     }
 }
